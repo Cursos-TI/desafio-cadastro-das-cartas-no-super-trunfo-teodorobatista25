@@ -39,7 +39,7 @@
      printf("Número da Carta: %s\n", Carta);
      printf("Nome da Cidade: %s\n", Cidade);
      printf("Número Populacional: %d\n", Populacao);
-     printf("Área em Km²: %.3f kM² \n", Area);
+     printf("Área em Km²: %.0f kM² \n", Area);
      printf("PIB: %.0f MILHOES DE REAIS \n", PIB);
      printf("Números de Pontos Turísticos: %d\n", Turismo);
  
@@ -49,3 +49,4 @@
  
  }
  
+
